@@ -46,4 +46,4 @@ component. This application isworking properly and meeting to all user requireme
 This component can be easily plugged in many other systems.
 
 Developed By Rahul Patidar.
-NIT Raipur Student.
+Aditya University Student.
